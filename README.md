@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Orlando K Ferreira
+**Matricula: 599134
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspecao Network](images/CPeers_Resultado_Network.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Pagina HelloWorld](images/HelloWorld_Orlando.png)
 
 
 ## Orientações sobre Linguagem MarkDown
